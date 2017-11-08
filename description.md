@@ -1,0 +1,1 @@
+En esta guía analizaremos cómo y dónde se muestran las estadísticas del curso
